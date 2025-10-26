@@ -1,7 +1,5 @@
 # Wild-Life Safari Trip Management System 🦒🌿
 
-![ Safari Banner](https://via.placeholder.com/1200x300.png?text=Wild-Life+Safari+System) <!-- Replace with actual banner image URL -->
-
 A web-based platform to streamline safari trip operations, enabling seamless trip planning, booking, and management for tourists, guides, drivers, and administrators.
 
 ---
@@ -96,7 +94,7 @@ The system follows a layered architecture:
 ### Installation Steps
 1. **Clone the Repository**:
    ```bash
-[   git clone https://github.com/TharuPinsara/Wild-Trails---Wild-Life-Safari-Booking-System.git]
+   git clone https://github.com/TharuPinsara/Wild-Trails---Wild-Life-Safari-Booking-System.git
    cd Wild-Trails---Wild-Life-Safari-Booking-System
   '''
   ### 👷 Contributors
