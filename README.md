@@ -62,10 +62,10 @@ The system follows a layered architecture:
 - **Database**: Stores user data, trip details, bookings, payments, and reports.
 
 ### Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: PHP / Node.js / Django
-- **Database**: MySQL / PostgreSQL
-- **Hosting**: Apache / Nginx
+- **Frontend**: HTML, Tailwind CSS
+- **Backend**:Java
+- **Database**: Microsoft SQL
+- **Hosting**: SpringBoot
 
 ---
 
@@ -93,17 +93,19 @@ The system follows a layered architecture:
 
 ---
 
-## 🛠️ Project Setup
-
-### Prerequisites
-- Git
-- PHP >= 7.4 or Node.js >= 14.x (depending on backend choice)
-- MySQL / PostgreSQL
-- Composer (for PHP) or npm (for Node.js)
-- Apache / Nginx server
-
 ### Installation Steps
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/Safari-Trip-Management-System.git
    cd Safari-Trip-Management-System
+  '''
+  ### 👷 Contributors
+
+| Name                     | Role                                                    |
+|--------------------------|---------------------------------------------------------|
+| **Wijekoon S.P.A.S.A**   | Developer – Customer Booking Management                 |
+| **Vithanage R.A.I**      | Product Owner, Developer – Wildlife Spotting Management |
+| **Dewmith H.L.T.P**      | Scrum Master, Developer – Vehicle and Driver Management |
+| **Rupasingha R.S.M.P.S** | Developer – Insurance Management                        |
+| **Venura Kithpura W.K**  | Developer – Trip Management                             |
+| **Hisham M**             | Developer – Invoice/Report Management                   |
