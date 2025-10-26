@@ -96,8 +96,8 @@ The system follows a layered architecture:
 ### Installation Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Safari-Trip-Management-System.git
-   cd Safari-Trip-Management-System
+[   git clone https://github.com/TharuPinsara/Wild-Trails---Wild-Life-Safari-Booking-System.git]
+   cd Wild-Trails---Wild-Life-Safari-Booking-System
   '''
   ### 👷 Contributors
 
